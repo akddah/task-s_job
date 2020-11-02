@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:for_jop/src/mainWidget/filtterCard.dart';
-import 'package:for_jop/src/provider/depatmentsProvider.dart';
+import 'package:for_jop/src/Controuler/depatmentsProvider.dart';
+import 'package:for_jop/src/CustomWidget/filtterCard.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
 

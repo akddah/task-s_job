@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:for_jop/src/mainWidget/customSearchBar.dart';
+import 'package:for_jop/src/CustomWidget/customSearchBar.dart';
 import 'widgets/commonOrders.dart';
 import 'widgets/departmentFilter.dart';
 import 'widgets/streetCard.dart';
